@@ -1,6 +1,8 @@
-Hi!
+My name is Aubrey. With over a decade of service industry experience under my belt, I have set my sights on using my programming skills to help and support people + business.
 
-My name is Aubrey and I utilize my background in technology to construct functional, responsive, and accessible web design.
-My professional work history with retail stores such as Best Buy and Apple has empowered me to fine-tune my problem-solving skills, allowing me to utilize hardware and software in order to improve people's lives in tangible ways.  
+My skills include the following languages:
+- HTML5 - CSS3 - Sass - TailwindCSS - JavaScript (ES6) - React JS - Next JS - Headless CMS - Figma - Github - Git - Paired Programming
 
-I am experienced in using HTML5, CSS3, JavaScript, jQuery, and React languages.
+I am ready to apply these skills and to learn much more in my pursuit of becoming the best developer I can be to help support small business in my community.
+
+Aside from programming, I have a distinct passion for everything music. Production, physical media, live shows, and singing are just a few things that I love to appreciate. I aspire to write and perform my own music sometime in the near future.
